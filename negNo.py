@@ -1,3 +1,5 @@
+#print the number of negative elements in a user input matrix
+
 row=int(input())
 col=int(input())
 flag=0
