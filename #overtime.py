@@ -1,4 +1,4 @@
-#overtime
+# given the hours of day shift and night shift, and the number of days they work, and the maximum hours they will work, find the amount to be paid if each hour of overtime costs $100
 days=int(input())
 morn=list(map(int,input().split()))
 morn.sort()
