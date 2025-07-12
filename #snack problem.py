@@ -1,4 +1,4 @@
-#snack problem
+#i have to eat 'k' consecutive snacks in 'k' minutes. given the tastines index of the snacks, output the maximum tastiness index that i can achieve
 n= int(input('enter n '))
 k=int(input('enter k '))
 add=0
