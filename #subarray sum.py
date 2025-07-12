@@ -1,4 +1,4 @@
-#subarray sum check
+#chheck subarray sum to input value, flag if they mmatch  
 k=int(input('enter k '))
 z=int(input('enter sum '))
 print('enter numbers')
