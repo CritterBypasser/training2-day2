@@ -1,4 +1,4 @@
-#max sum subarray
+#find the maximum sum of a subarray of the given array, consider negative elements
 sum=0
 msum=0  
 arr=list(map(int, input().split()))          
