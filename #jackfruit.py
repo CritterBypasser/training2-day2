@@ -1,4 +1,4 @@
-#jackfruit
+# find the sum of the 2 jackfruits with the maximum weights
 arr=list(map(int, input().split()))
 jam=0
 weight=list(map(int, input().split()))
